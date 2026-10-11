@@ -1,6 +1,6 @@
 # Win7 Kimi API 部署方案
 
-> 在一台 2010 年的 Windows 7 电脑上跑通 Kimi 的 OpenAI 兼容 API，并通过 Cloudflare Tunnel 暴露到公网。
+> 在一台 2013 年的 Windows 7 台式机上跑通 Kimi 的 OpenAI 兼容 API，并通过 Cloudflare Tunnel 暴露到公网。
 
 ## 为什么需要这个方案
 
