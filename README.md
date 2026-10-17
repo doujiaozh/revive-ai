@@ -32,3 +32,8 @@
 ## License
 
 MIT
+<img width="677" height="522" alt="捕获4" src="https://github.com/user-attachments/assets/40f9394c-09e4-4b6c-a72e-7ba981548f54" />
+<img width="736" height="466" alt="捕获3" src="https://github.com/user-attachments/assets/8ccd6e52-190a-4e73-86db-0d4197b2de07" />
+<img width="736" height="466" alt="捕获" src="https://github.com/user-attachments/assets/78d63767-ae59-42bd-9125-dde9db1d6472" />
+<img width="736" height="466" alt="捕获5" src="https://github.com/user-attachments/assets/ee74a109-29a2-4fbb-82f9-63c4ce8c6ef3" />
+<img width="736" height="466" alt="捕获2" src="https://github.com/user-attachments/assets/baad4aa6-2a9b-45f5-af93-ea6bdd480202" />
