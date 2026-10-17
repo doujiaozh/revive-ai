@@ -1,0 +1,8 @@
+*.pyc
+__pycache__/
+*.db
+agent.db
+limbolog.txt
+*.iso
+*.img
+.env
