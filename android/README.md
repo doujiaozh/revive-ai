@@ -1,18 +1,7 @@
-# Android (¼Æ»®ÖĞ)
+# Android (Termux) AI Agent
 
-Ä¿±ê£ºÈÃ Android 4.0+ µÄÀÏÊÖ»úÅÜÍ¨ÏÖ´ú AI¡£
+åˆ©ç”¨ Android æ‰‹æœº Termux ç»ˆç«¯è¿è¡Œçš„æç®€ AI å¯¹è¯è„šæœ¬ï¼Œ**é›¶ç¬¬ä¸‰æ–¹ä¾èµ–**ï¼Œçº¯ Python æ ‡å‡†åº“å®ç°ã€‚
 
-## ¼Æ»®·½°¸
-
-- **Termux + DeepSeek Harness**£ºÔÚ Termux ÀïÅÜ DSH£¬ä¯ÀÀÆ÷·ÃÎÊ Web UI
-- **PRoot Ubuntu É³Ïä**£ºÄ£Äâ Linux »·¾³£¬ÅÜ Node.js Agent
-- **LSPosed Ä£¿é**£º×¢Èëµ½¹Ù·½ App£¨Ğè Root£©
-
-## ×´Ì¬
-
-- [ ] Termux »·¾³´î½¨
-- [ ] DSH Ô­ÉúÄ£¿é±àÒë
-- [ ] Web UI ÒÆ¶¯¶ËÊÊÅä
-- [ ] API ½ÓÈë£¨Kimi / DeepSeek£©
-
-»¶Ó­Ìá½» PR ·ÖÏíÄãµÄ·½°¸¡£
+## è¿è¡Œæ–¹æ³•
+1. å®‰è£…ç¯å¢ƒï¼š`pkg install python`
+2. è¿è¡Œè„šæœ¬ï¼š`python agent.py`
